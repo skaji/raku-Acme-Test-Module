@@ -1,20 +1,25 @@
 {
-  "auth" : "cpan:SKAJI",
-  "authors" : [
+  "auth": "zef:skaji",
+  "authors": [
     "Shoichi Kaji"
   ],
-  "build-depends" : [ ],
-  "depends" : [ ],
-  "description" : "a test module",
-  "license" : "Artistic-2.0",
-  "name" : "Acme::Test::Module",
-  "perl" : "6.d",
-  "provides" : {
-    "Acme::Test::Module" : "lib/Acme/Test/Module.rakumod"
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "a test module",
+  "license": "Artistic-2.0",
+  "name": "Acme::Test::Module",
+  "perl": "6.d",
+  "provides": {
+    "Acme::Test::Module": "lib/Acme/Test/Module.rakumod"
   },
-  "resources" : [ ],
-  "source-url" : "https://github.com/skaji/raku-Acme-Test-Module.git",
-  "tags" : [ ],
-  "test-depends" : [ ],
-  "version" : "1.0.4"
+  "resources": [
+  ],
+  "source-url": "https://github.com/skaji/raku-Acme-Test-Module.git",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "1.0.4"
 }

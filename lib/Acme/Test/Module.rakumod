@@ -1,4 +1,4 @@
-unit class Acme::Test::Module:ver<1.0.4>:auth<cpan:SKAJI>;
+unit class Acme::Test::Module;
 
 
 =begin pod
